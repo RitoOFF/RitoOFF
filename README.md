@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! I'm Gabin, and I'm a young developer! | DISCORD : rito.off </h1>
+<h1 align="left">Hi 👋! I'm Tristan, and I'm a young developer! | DISCORD : rito.off </h1>
 
 ###
 
