@@ -43,7 +43,8 @@
 ###
 
 <div align="center">
-  <img height="500" src="https://raw.githubusercontent.com/RitoOFF/Rito/main/image.jpg"  width="100%"/>
+  ![logo](https://github.com/RitoOFF/RitoOFF/assets/125696277/52b1e9c7-a2cf-4108-acd0-8793b596d839)
+
 </div>
 
 ###
