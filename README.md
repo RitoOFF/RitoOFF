@@ -41,10 +41,6 @@
 </div>
 
 ###
-
-<div align="center">
   ![logo](https://github.com/RitoOFF/RitoOFF/assets/125696277/52b1e9c7-a2cf-4108-acd0-8793b596d839)
-
-</div>
 
 ###
