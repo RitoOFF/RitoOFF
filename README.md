@@ -21,10 +21,6 @@
   <img src="https://cdn.simpleicons.org/python" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/php/777BB4" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/phpstorm" height="30" alt="phpstorm logo"  />
 </div>
 
 ###
