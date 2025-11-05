@@ -22,6 +22,4 @@
 ---
 
 ### 👀 Profile Stats
-<div align="center">
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-277-blue)
-</div>
