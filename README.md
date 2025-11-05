@@ -26,3 +26,5 @@
 ###
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-277-blue)
+
+![Camembert WakaTime](https://wakatime.com/share/@ritoff/2ebb4673-5b66-47e8-b728-a404dcf6d446.svg)
