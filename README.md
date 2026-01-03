@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋! I'm Gabin</h1>
 <h3 align="center">A young developer | DISCORD: rito.off</h3>
 
+- https://guns.lol/RitoOFF
 ---
 
 ### 🔨 Languages & Tools
